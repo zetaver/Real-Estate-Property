@@ -4,6 +4,9 @@ A modern real estate platform built with React, TypeScript, and Tailwind CSS, fe
 
 ## Screenshots
 
+### Authentication
+![Authentication](./screenshots/auth.png)
+
 ### Homepage
 ![Homepage](./screenshots/homepage.png)
 
