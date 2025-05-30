@@ -2,6 +2,23 @@
 
 A modern real estate platform built with React, TypeScript, and Tailwind CSS, featuring property listings, user management, and an admin dashboard.
 
+## Screenshots
+
+### Homepage
+![Homepage](./screenshots/homepage.png)
+
+### Property Listings
+![Property Listings](./screenshots/property-listings.png)
+
+### Property Details
+![Property Details](./screenshots/property-details.png)
+
+### User Dashboard
+![User Dashboard](./screenshots/user-dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
 ## Features
 
 ### Public Features
