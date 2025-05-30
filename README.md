@@ -13,6 +13,9 @@ A modern real estate platform built with React, TypeScript, and Tailwind CSS, fe
 ### Property Details
 ![Property Details](./screenshots/property-details.png)
 
+### Property Search
+![Property Search](./screenshots/search_listings.png)
+
 ### User Dashboard
 ![User Dashboard](./screenshots/user-dashboard.png)
 
