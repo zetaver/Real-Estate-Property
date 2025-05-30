@@ -171,43 +171,9 @@ The platform uses a custom authentication system with the following roles:
 Test credentials are available for each role:
 ```javascript
 user@test.com / test123
-agent@test.com / test123
-agency@test.com / test123
-developer@test.com / test123
 admin@test.com / admin123
 ```
 
-## Database Schema
-
-### Profiles Table
-```sql
-- id (uuid, PK)
-- first_name (text)
-- last_name (text)
-- email (text)
-- phone (text)
-- mobile (text)
-- skype (text)
-- avatar_url (text)
-- role (text)
-- social_links (jsonb)
-- created_at (timestamp)
-- updated_at (timestamp)
-```
-
-### Packages Table
-```sql
-- id (uuid, PK)
-- user_id (uuid, FK)
-- name (text)
-- listings_included (int)
-- listings_remaining (int)
-- featured_included (int)
-- featured_remaining (int)
-- images_per_listing (int)
-- expires_at (timestamp)
-- created_at (timestamp)
-```
 
 ## Security
 
