@@ -1,6 +1,6 @@
-# Real Estate Platform
+# RealEstate Property Platform React
 
-A modern real estate platform built with React, TypeScript, and Tailwind CSS, featuring property listings, user management, and an admin dashboard.
+A modern RealEstate Property Platform built with React, TypeScript, and Tailwind CSS, featuring property listings, user management, and an admin dashboard.
 
 ## Screenshots
 
