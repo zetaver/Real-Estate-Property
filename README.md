@@ -87,8 +87,8 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zetaver/Real-Estate-Property.git
-cd real-estate-platform
+git clone https://github.com/zetaver/RealEstate-Property-Platform-React.git
+cd RealEstate-Property-Platform-React
 ```
 
 2. Install dependencies:
@@ -96,13 +96,7 @@ cd real-estate-platform
 npm install
 ```
 
-3. Create a `.env` file in the root directory:
-```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
-4. Start the development server:
+3. Start the development server:
 ```bash
 npm run dev
 ```
